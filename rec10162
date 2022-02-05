@@ -1,0 +1,119 @@
+Project3:
+total 92
+drwxr-xr-x. 3 myid    57 Jul 11 14:05 classes
+drwxr-xr-x. 3 myid  4096 Jul 10 15:13 html
+-rw-r--r--. 1 myid  1310 Jul 10 15:50 README.txt
+-rw-r--r--. 1 myid     0 Jul 11 14:14 rec10162
+drwxr-xr-x. 3 myid    25 Jul  2 12:30 src
+-rw-r--r--. 1 myid 83760 Jul 10 19:22 TestPlan.pdf
+
+Project3/classes:
+total 8
+drwxr-xr-x. 3 myid   25 Jul  2 17:41 edu
+-rw-r--r--. 1 myid 5129 Jul 11 14:13 TextLineTester.class
+
+Project3/classes/edu:
+total 0
+drwxr-xr-x. 3 myid 28 Jul  2 17:41 uga
+
+Project3/classes/edu/uga:
+total 0
+drwxr-xr-x. 4 myid 45 Jul  6 10:52 cs1302
+
+Project3/classes/edu/uga/cs1302:
+total 0
+drwxr-xr-x. 2 myid  42 Jul  6 10:52 test
+drwxr-xr-x. 2 myid 147 Jul  6 10:31 txtbuff
+
+Project3/classes/edu/uga/cs1302/test:
+total 8
+-rw-r--r--. 1 myid 5154 Jul 10 12:31 TextLineTester.class
+
+Project3/classes/edu/uga/cs1302/txtbuff:
+total 16
+-rw-r--r--. 1 myid  247 Jul 11 14:13 Editable.class
+-rw-r--r--. 1 myid 1711 Jul 11 14:13 EditableTextLine.class
+-rw-r--r--. 1 myid 2187 Jul 11 14:13 TextLine.class
+-rw-r--r--. 1 myid  667 Jul 11 14:13 TextLineIndexOutOfBoundsException.class
+
+Project3/html:
+total 104
+-rw-r--r--. 1 myid  1290 Jul 10 15:21 allclasses-frame.html
+-rw-r--r--. 1 myid  1190 Jul 10 15:21 allclasses-noframe.html
+-rw-r--r--. 1 myid  4599 Jul 10 15:21 constant-values.html
+-rw-r--r--. 1 myid  3495 Jul 10 15:21 deprecated-list.html
+drwxr-xr-x. 3 myid    25 Jul 10 15:13 edu
+-rw-r--r--. 1 myid  8213 Jul 10 15:21 help-doc.html
+-rw-r--r--. 1 myid 24234 Jul 10 15:21 index-all.html
+-rw-r--r--. 1 myid  2923 Jul 10 15:21 index.html
+-rw-r--r--. 1 myid   897 Jul 10 15:21 overview-frame.html
+-rw-r--r--. 1 myid  4070 Jul 10 15:21 overview-summary.html
+-rw-r--r--. 1 myid  5329 Jul 10 15:21 overview-tree.html
+-rw-r--r--. 1 myid    43 Jul 10 15:21 package-list
+-rw-r--r--. 1 myid   827 Jul 10 15:21 script.js
+-rw-r--r--. 1 myid  4047 Jul 10 15:21 serialized-form.html
+-rw-r--r--. 1 myid 12842 Jul 10 15:13 stylesheet.css
+
+Project3/html/edu:
+total 0
+drwxr-xr-x. 3 myid 28 Jul 10 15:13 uga
+
+Project3/html/edu/uga:
+total 0
+drwxr-xr-x. 4 myid 45 Jul 10 15:13 cs1302
+
+Project3/html/edu/uga/cs1302:
+total 0
+drwxr-xr-x. 2 myid 132 Jul 10 15:13 test
+drwxr-xr-x. 2 myid 202 Jul 10 15:13 txtbuff
+
+Project3/html/edu/uga/cs1302/test:
+total 44
+-rw-r--r--. 1 myid   820 Jul 10 15:21 package-frame.html
+-rw-r--r--. 1 myid  4595 Jul 10 15:21 package-summary.html
+-rw-r--r--. 1 myid  4414 Jul 10 15:21 package-tree.html
+-rw-r--r--. 1 myid 22317 Jul 10 15:21 TextLineTester.html
+
+Project3/html/edu/uga/cs1302/txtbuff:
+total 84
+-rw-r--r--. 1 myid  9724 Jul 10 15:21 Editable.html
+-rw-r--r--. 1 myid 16976 Jul 10 15:21 EditableTextLine.html
+-rw-r--r--. 1 myid  1381 Jul 10 15:21 package-frame.html
+-rw-r--r--. 1 myid  6046 Jul 10 15:21 package-summary.html
+-rw-r--r--. 1 myid  5575 Jul 10 15:21 package-tree.html
+-rw-r--r--. 1 myid 17715 Jul 10 15:21 TextLine.html
+-rw-r--r--. 1 myid 10549 Jul 10 15:21 TextLineIndexOutOfBoundsException.html
+
+Project3/src:
+total 0
+drwxr-xr-x. 3 myid 25 Jul  2 12:30 edu
+
+Project3/src/edu:
+total 0
+drwxr-xr-x. 3 myid 28 Jul  2 12:31 uga
+
+Project3/src/edu/uga:
+total 0
+drwxr-xr-x. 4 myid 45 Jul  2 12:31 cs1302
+
+Project3/src/edu/uga/cs1302:
+total 0
+drwxr-xr-x. 2 myid  73 Jul 11 14:12 test
+drwxr-xr-x. 2 myid 280 Jul 10 22:15 txtbuff
+
+Project3/src/edu/uga/cs1302/test:
+total 36
+-rw-r--r--. 1 myid 13006 Jul 11 14:12 TextLineTester.java
+-rw-r--r--. 1 myid 19782 Jul 11 14:04 TextLineTester.java~
+
+Project3/src/edu/uga/cs1302/txtbuff:
+total 48
+-rw-r--r--. 1 myid 1144 Jul 10 14:05 Editable.java
+-rw-r--r--. 1 myid 1138 Jul 10 13:16 Editable.java~
+-rw-r--r--. 1 myid 7500 Jul 10 22:15 EditableTextLine.java
+-rw-r--r--. 1 myid 7489 Jul 10 20:23 EditableTextLine.java~
+-rw-r--r--. 1 myid 1194 Jul 10 20:26 TextLineIndexOutOfBoundsException.java
+-rw-r--r--. 1 myid 1086 Jul 10 15:00 TextLineIndexOutOfBoundsException.java~
+-rw-r--r--. 1 myid 7506 Jul 10 22:14 TextLine.java
+-rw-r--r--. 1 myid 7504 Jul 10 21:48 TextLine.java~
+/home/myid/dsc83098/cs1302/Project3:/home/myid/csci-1302a
